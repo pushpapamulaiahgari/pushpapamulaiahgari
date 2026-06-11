@@ -24,6 +24,8 @@
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-red?style=for-the-badge)
 
 ![Statistics](https://img.shields.io/badge/Statistics-purple?style=for-the-badge)
+[Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
+
 
 ---
 
@@ -33,6 +35,8 @@
 - 🏠 House Price Prediction
 - 👁️ AI for Early Detection of Diabetic Retinopathy
 - 💰 Salary Prediction System
+-  🛒 Supermarket Bill Generation System
+- 🐍 Python Prep Pal
 
 ---
 
