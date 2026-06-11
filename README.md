@@ -46,10 +46,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=pushpapamulaiahgari&theme=radical)
-
 ---
 
 ## 🌐 Connect With Me
